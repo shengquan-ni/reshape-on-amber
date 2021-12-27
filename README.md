@@ -1,7 +1,7 @@
 # Reshape
 This is the code for the implementation of Reshape on the Amber engine. Amber is the backend engine for a service called Texera. More details about Texera and how to build it can be found at [Texera's github](https://github.com/Texera/texera).
 
-# Building the project
+## Building the project
 ```console
 cd core
 ./scripts/build.sh
