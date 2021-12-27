@@ -15,7 +15,7 @@ object Constants {
 
   var numWorkerPerNode = 4
   // join-skew reserach related
-  val gcpExp: Boolean = true
+  val gcpExp: Boolean = false
   val samplingResetFrequency: Int = 2000
   val startDetection: FiniteDuration = 2.seconds // 100.milliseconds
   val detectionPeriod: FiniteDuration = 2.seconds
